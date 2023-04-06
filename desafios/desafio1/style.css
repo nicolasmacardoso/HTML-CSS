@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(26, 25, 25);
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+body {
+    text-align: center;
+    color: rgb(179, 179, 179);
+    font-family: 'verdana';
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
